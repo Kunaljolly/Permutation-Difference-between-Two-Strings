@@ -12,6 +12,7 @@ Example 1:
 
 Input: s = "abc", t = "bac"
 
+
 Output: 2
 
 Explanation:
