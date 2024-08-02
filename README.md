@@ -24,6 +24,7 @@ The absolute difference between the index of the occurrence of "b" in s and the 
 The absolute difference between the index of the occurrence of "c" in s and the index of the occurrence of "c" in t.
 That is, the permutation difference between s and t is equal to |0 - 1| + |2 - 2| + |1 - 0| = 2.
 
+
 Example 2:
 
 Input: s = "abcde", t = "edbac"
